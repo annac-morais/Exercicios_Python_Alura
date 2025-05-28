@@ -61,4 +61,4 @@ Cada exercício está comentado para facilitar o entendimento. Algumas soluçõe
 ## Contribuição:
 Este projeto tem caráter educativo e pessoal, mas sugestões de melhoria ou novas soluções são sempre bem-vindas!
 
-## Autor: Anna Clara Morais Santos 
+## Autor: Anna Clara Santos Morais 

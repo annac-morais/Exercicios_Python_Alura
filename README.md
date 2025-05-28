@@ -68,5 +68,3 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 ## Referência
 - Apostilha: https://github.com/caelum/apostila-python-orientacao-a-objetos
   
-
-### Autor: Anna Clara Santos Morais 

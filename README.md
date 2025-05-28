@@ -40,7 +40,7 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 
 ---
 
-## ▶️ Como Executar
+## ▶️  Como Executar
 
 1. **Instalar Python:**
 
@@ -66,5 +66,5 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 - Este projeto tem caráter educativo e pessoal, mas sugestões de melhoria ou novas soluções são sempre bem-vindas!
 
 ## 📌 Referência
-- Apostilha: https://github.com/caelum/apostila-python-orientacao-a-objetos
+- Apostila : https://github.com/caelum/apostila-python-orientacao-a-objetos
   

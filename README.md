@@ -61,4 +61,4 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 ## Contribuição:
 - Este projeto tem caráter educativo e pessoal, mas sugestões de melhoria ou novas soluções são sempre bem-vindas!
 
-## Autor: Anna Clara Santos Morais 
+### Autor: Anna Clara Santos Morais 

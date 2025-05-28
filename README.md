@@ -55,8 +55,10 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
    ```bash
    python nome_do_arquivo.py
 
-##  Observações: cada exercício está comentado para facilitar o entendimento. Algumas soluções podem apresentar variações de acordo com estilos e boas práticas recomendadas.
+##  Observações:
+cada exercício está comentado para facilitar o entendimento. Algumas soluções podem apresentar variações de acordo com estilos e boas práticas recomendadas.
 
-## Contribuição: este projeto tem caráter educativo e pessoal, mas sugestões de melhoria ou novas soluções são sempre bem-vindas!
+## Contribuição:
+este projeto tem caráter educativo e pessoal, mas sugestões de melhoria ou novas soluções são sempre bem-vindas!
 
 ## Autor: Anna Clara Morais Santos 

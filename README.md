@@ -42,18 +42,22 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 
 ## Como Executar
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-2. **(Opcional) Crie um ambiente virtual**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate(Linux/Mac)
-   venv\Scripts\activate(Windows)
-3. **Execute os scripts com:**:
-   ```bash
-   python nome_do_arquivo.py
+1. **Instalar Python:**
+
+   👉 Baixe em: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+   ⚠️ **Durante a instalação, marque a opção:** `Add Python to PATH`
+
+3. **Instalar o VS Code (se ainda não tiver):**
+
+   👉 Baixe em: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+
+4. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
+5. Instale as extensões dentro do VS code:
+   - **Python** (da Microsoft)
+   - **SQLite** (caso vá executar os exemplos com banco de dados)
+6. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
 
 ##  Observações:
 - Cada exercício está comentado para facilitar o entendimento. Algumas soluções podem apresentar variações de acordo com estilos e boas práticas recomendadas.

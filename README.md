@@ -57,7 +57,9 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 5. Instale as extensões dentro do VS code:
    - **Python** (da Microsoft)
    - **SQLite** (caso vá executar os exemplos com banco de dados)
-6. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
+6. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.
+
+7. (Opcional) Clicar no link de redicionamento em cada exercício na pasta `Exercicios de POO (Google Colab)` para abrir diretamente com o Google Colab.
 
 ## 🔎 Observações:
 - Cada exercício está comentado para facilitar o entendimento. Algumas soluções podem apresentar variações de acordo com estilos e boas práticas recomendadas.

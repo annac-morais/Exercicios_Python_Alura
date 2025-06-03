@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução completa dos exercícios propostos nos seguintes módulos da Apostila Python: Orientação a Objetos desenvolvida pela Caelum e disponibilizada pela Alura:
 
-## 📁 Módulos de Estudo
+## 📁 Módulos Trabalhados
 
 ### 🖇 08 - Orientação a Objetos
 Introdução aos conceitos de programação orientada a objetos (POO) em Python, como classes, objetos, atributos e métodos.

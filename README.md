@@ -48,19 +48,19 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 
     **Durante a instalação, marque a opção:** `Add Python to PATH`
 
-3. **Instalar o VS Code (se ainda não tiver):**
+2. **Instalar o VS Code (se ainda não tiver):**
 
     Baixe em: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-4. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
-5. 
-6. Instale as extensões dentro do VS code:
+3. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
+   
+4. Instale as extensões dentro do VS code:
    - **Python** (da Microsoft)
    - **SQLite** (caso vá executar os exemplos com banco de dados)
      
-7. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.
+5. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.
 
-8. (Opcional) Clicar no link de redicionamento em cada aquivo da pasta `Exercicios de POO (Google Colab)` para abrir diretamente com o Google Colab.
+6. (Opcional) Clicar no link de redicionamento em cada aquivo da pasta `Exercicios de POO (Google Colab)` para abrir diretamente com o Google Colab.
 
 ## 🔎 Observações:
 - Cada exercício está comentado para facilitar o entendimento. Algumas soluções podem apresentar variações de acordo com estilos e boas práticas recomendadas.

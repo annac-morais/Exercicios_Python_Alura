@@ -27,10 +27,10 @@ Utilização de coleções como listas, tuplas, dicionários e sets, além da ex
 
 ## 🎯 Objetivos do Projeto
 
-- Praticar os principais conceitos de **programação orientada a objetos** com Python.
-- Desenvolver soluções para os **exercícios propostos em cada módulo**.
-- Explorar **boas práticas de desenvolvimento** orientado a objetos.
-- Organizar o código de forma **limpa, reutilizável e bem documentada**.
+- Praticar os principais conceitos de programação orientada a objetos com Python.
+- Desenvolver soluções para os exercícios propostos em cada módulo.
+- Explorar boas práticas de desenvolvimento orientado a objetos.
+- Organizar o código de forma limpa, reutilizável e bem documentada.
 
 ## 👩🏻‍💻 Tecnologias Utilizadas
 

@@ -16,7 +16,7 @@ Introdução ao ambiente de desenvolvimento PyCharm, configuração, execução 
 ### 🖇 11 - Herança e Classes Abstratas
 Uso de herança para reaproveitamento de código, criação de hierarquias de classes e definição de classes e métodos abstratos.
 
-### - 🖇 12 - Herança Múltipla e Interfaces
+### 🖇 12 - Herança Múltipla e Interfaces
 Aplicação de herança múltipla, mixins e a simulação de interfaces em Python com o módulo abc.
 
 ### 🖇 13 - Exceções e Erros

@@ -4,25 +4,25 @@ Este repositório contém a resolução completa dos exercícios propostos nos s
 
 ## 📁 Módulos Trabalhados
 
-### 🖇 08 - Orientação a Objetos
+###  08 - Orientação a Objetos
 Introdução aos conceitos de programação orientada a objetos (POO) em Python, como classes, objetos, atributos e métodos.
 
-### 🖇 09 - Encapsulamento
+###  09 - Encapsulamento
 Técnicas de encapsulamento, atributos privados, métodos getters e setters, propriedades e boas práticas de proteção de dados.
 
-### 🖇 10 - PyCharm IDE
+###  10 - PyCharm IDE
 Introdução ao ambiente de desenvolvimento PyCharm, configuração, execução e depuração de projetos Python.
 
-### 🖇 11 - Herança e Classes Abstratas
+###  11 - Herança e Classes Abstratas
 Uso de herança para reaproveitamento de código, criação de hierarquias de classes e definição de classes e métodos abstratos.
 
-### 🖇 12 - Herança Múltipla e Interfaces
+###  12 - Herança Múltipla e Interfaces
 Aplicação de herança múltipla, mixins e a simulação de interfaces em Python com o módulo abc.
 
-### 🖇 13 - Exceções e Erros
+###  13 - Exceções e Erros
 Tratamento de erros e exceções com try-except, criação de exceções personalizadas e boas práticas para um código mais robusto.
 
-### 🖇 14 - Collections
+###  14 - Collections
 Utilização de coleções como listas, tuplas, dicionários e sets, além da exploração do módulo collections para estruturas mais especializadas.
 
 ## 🎯 Objetivos do Projeto

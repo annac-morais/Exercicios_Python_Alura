@@ -1,6 +1,6 @@
 ## 📚 Resolução de Exercícios — Apostila Python Orientação a Objetos (Alura)
 
-Este repositório contém a resolução completa dos exercícios propostos nos seguintes módulos da Apostila Python: Orientação a Objetos desenvolvida pela Caelum e disponibilizada pela Alura:
+Este repositório contém a resolução dos exercícios propostos nos seguintes módulos da Apostila Python: Orientação a Objetos desenvolvida pela Caelum e disponibilizada pela Alura:
 
 ## 📁 Módulos Trabalhados
 
